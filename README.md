@@ -55,6 +55,7 @@
 |  2  |  SVN  | 集中型 |
 
 - [History](https://github.com/Junkins/kyutech-code-lab-day1/commits/main/README.md)
+- [Diff](https://github.com/Junkins/kyutech-code-lab-day1/commit/c5bae121aef87d5f7c0e8c1ad4c0fd911fdfd225)
 - [現在のシェア](https://trends.google.com/trends/explore?q=%2Fm%2F05vqwg,%2Fm%2F09d6g,%2Fm%2F012ct9,%2Fm%2F08441_&hl=en-US&tz=&tz= "バージョン管理システムシェア")
 
 ### Gitのメリット
