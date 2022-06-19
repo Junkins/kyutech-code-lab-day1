@@ -1,5 +1,7 @@
 # Kyutech Code Lab GitHub講座
 
+<img src="https://ja.wizcase.com/wp-content/uploads/2022/03/GitHub-Logo.png" width="200">
+
 ## 目次
 1. 講師紹介
 2. GitHubとは
