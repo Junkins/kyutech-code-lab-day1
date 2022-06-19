@@ -66,7 +66,25 @@
  - Gitサーバーのホスティングサービス
 
 ### Gitを使いこなしたいはここを参照
- - [サルでもわかるGit入門](https://backlog.com/ja/git-tutorial/)：ヌーラボ社が提供するGit学習サイト
+ - [サル先生のGit入門](https://backlog.com/ja/git-tutorial/)：ヌーラボ社が提供するGit学習サイト
 ※ 新人時代にお世話になりました。
- 
+
+## 4. エンジニアのSNS
+
+GitHubはソフトウェアエンジニアのSNSとしての一面もあります。
+
+- [83+ million Developers](https://github.com/about "GitHub")：8千3百万人のエンジニア
+
+### GitHubのアカウント名は、エンジニアとしての名前
+
+- しっかり考えて決めましょう。
+- 伊藤のアカウント名は「Junkins」、「じゅんき」と「Jenkins」をかけています。
+
+※「Jenkins」は当時のCIツールのデファクトスタンダード
+
+### SNSとして利用してみよう
+
+ - [Junkins](https://github.com/junkins)
+ - [yuuu](https://github.com/yuuu)
+ - [freeCodeCamp](https://www.freecodecamp.org/japanese/news/learn-programming-by-yourself-freecodecamp-japanese-released/)
 
