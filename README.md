@@ -8,10 +8,9 @@
 3. バージョン管理システムとは
 4. エンジニアのSNS
 5. GitHubで読める世界のコード
-6. GitHubを使い始める
-7. GitHubを利用するにあたっての注意事項
-8. 小ネタ
-9. 質疑応答
+6. GitHubを使い始める(利用するにあたっての注意事項)
+7. 小ネタ
+8. 質疑応答
 
 ## 1. 講師紹介
 
@@ -102,4 +101,30 @@ GitHubはソフトウェアエンジニアのSNSとしての一面もありま�
 
 ※ 公式ドキュメントが最も良いドキュメントだと思いますが、ソースコードを直接読むのも勉強になります。
 
+## 6. GitHubを使い始める(利用するにあたっての注意事項)
+
+### どのプランを利用するか？
+- 個人利用の場合は「Free」プランで問題ないと思います。 
+- [GitHub 価格](https://github.co.jp/pricing.html)
+- [GitHub プライベートリポジトリが無料になりました](https://github.blog/2019-01-07-new-year-new-github/)：良い時代になりました。\\\
+
+### 二要素認証
+
+- [二要素認証を設定する](https://docs.github.com/ja/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
+
+### パブリックリポジトリとプライベートリポジトリ
+1. アクセスキーなどの情報はGitHubにアップしないほうがよい(プライベートリポジトリであっても)
+2. 記憶に新しい流出事件
+
+[gitignore](http://git-scm.com/docs/gitignore)
+[三井住友銀行などのソースコードが流出](https://www.itmedia.co.jp/news/articles/2101/29/news107.html)
+
+### OSSライセンス
+- 商用利用可能や著作権等が定められている
+- [Future Tech Blog](https://future-architect.github.io/articles/20200821/)
+
+## 7. 小ネタ
+- [e-ZUKA Tech NightにGitHubのエンジニアが来ていました](https://ko31.github.io/atnd-archive/event/36926.html)
+- Octocat
+![octcat](https://user-images.githubusercontent.com/2044958/174468327-b1ec61a3-fc3d-42fb-833f-8ac0ecea5fb3.png)
 
