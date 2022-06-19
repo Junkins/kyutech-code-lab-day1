@@ -88,3 +88,18 @@ GitHubはソフトウェアエンジニアのSNSとしての一面もありま�
  - [yuuu](https://github.com/yuuu)
  - [freeCodeCamp](https://www.freecodecamp.org/japanese/news/learn-programming-by-yourself-freecodecamp-japanese-released/)
 
+## 5. GitHubで読める世界のコード
+
+- GitHubには世界中のソフトウェアのソースコードが公開されている。
+- 有名なOSS(Open Source Software)のソースコードに簡単にアクセス
+
+|  OSS名  |  リポジトリ  |
+| ---- | ---- |
+|  Laravel (illuminate/database) | https://github.com/illuminate/database |
+|  CakePHP  | https://github.com/cakephp/cakephp |
+|  Django  | https://github.com/djan |
+|  python  | https://github.com/python/cpython |
+
+※ 公式ドキュメントが最も良いドキュメントだと思いますが、ソースコードを直接読むのも勉強になります。
+
+
