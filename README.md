@@ -24,3 +24,23 @@
 |  所属  |  IoTチーム  |
 |  職種  |  プリンシパルエンジニア  |
 |  好きな技術  |  PHP, AWS, SORACOM  |
+
+## 2. GitHubとは
+[GitHub](https://github.com/ "GitHub")
+
+### 一言で表すと
+- 「ソフトウェア開発のためのプラットフォーム」
+- [Where the world builds software](https://github.com/about "GitHub")：世界のソフトウェアを作る場所
+
+### 主な機能
+|  -  |  機能  |
+| ---- | ---- |
+|  1  |  ソースコードのホスティング、バージョン管理  |
+|  2  |  ソフトウェア開発者のSNS  |
+|  3  |  CI(継続的インテグレーション)：継続的インテグレーション  |
+|  4  |  Webサイトのホスティング  |
+
+### マイクロソフト
+[Microsoftによる75億ドル規模のGitHub買収(2018年)](https://japan.zdnet.com/article/35127696/ "Fusic")
+
+
