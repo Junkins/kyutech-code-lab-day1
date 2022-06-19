@@ -54,6 +54,18 @@
 |  1  |  Git | 分散型 |
 |  2  |  SVN  | 集中型 |
 
-[現在のシェア](https://trends.google.com/trends/explore?q=%2Fm%2F05vqwg,%2Fm%2F09d6g,%2Fm%2F012ct9,%2Fm%2F08441_&hl=en-US&tz=&tz= "バージョン管理システムシェア")
+- [History](https://github.com/Junkins/kyutech-code-lab-day1/commits/main/README.md)
+- [現在のシェア](https://trends.google.com/trends/explore?q=%2Fm%2F05vqwg,%2Fm%2F09d6g,%2Fm%2F012ct9,%2Fm%2F08441_&hl=en-US&tz=&tz= "バージョン管理システムシェア")
 
+### Gitのメリット
+ - ブランチが作成しやすい：複雑な差分管理を容易に
+ - ローカルリポジトリとリモートリポジトリの分散構成：分業しやすい
+
+### GitHubとは(ここでもう一度)
+ - Gitサーバーのホスティングサービス
+
+### Gitを使いこなしたいはここを参照
+ - [サルでもわかるGit入門](https://backlog.com/ja/git-tutorial/)：ヌーラボ社が提供するGit学習サイト
+※ 新人時代にお世話になりました。
+ 
 
