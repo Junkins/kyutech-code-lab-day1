@@ -43,4 +43,17 @@
 ### 資本関係
 [Microsoftによる75億ドル規模のGitHub買収(2018年)](https://japan.zdnet.com/article/35127696/ "Fusic")
 
+## 3. バージョン管理システムとは
+
+### 一言で表すと
+- ファイルの変更履歴を管理するシステム
+
+### 主なバージョン管理システム
+|  -  |  バージョン管理システム  | タイプ |
+| ---- | ---- | ---- |
+|  1  |  Git | 分散型 |
+|  2  |  SVN  | 集中型 |
+
+[現在のシェア]([https://japan.zdnet.com/article/35127696/](https://trends.google.com/trends/explore?q=%2Fm%2F05vqwg,%2Fm%2F09d6g,%2Fm%2F012ct9,%2Fm%2F08441_&hl=en-US&tz=&tz=) "バージョン管理システムシェア")
+
 
