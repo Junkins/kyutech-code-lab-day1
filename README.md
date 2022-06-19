@@ -54,6 +54,6 @@
 |  1  |  Git | 分散型 |
 |  2  |  SVN  | 集中型 |
 
-[現在のシェア]([https://japan.zdnet.com/article/35127696/](https://trends.google.com/trends/explore?q=%2Fm%2F05vqwg,%2Fm%2F09d6g,%2Fm%2F012ct9,%2Fm%2F08441_&hl=en-US&tz=&tz=) "バージョン管理システムシェア")
+[現在のシェア](https://trends.google.com/trends/explore?q=%2Fm%2F05vqwg,%2Fm%2F09d6g,%2Fm%2F012ct9,%2Fm%2F08441_&hl=en-US&tz=&tz= "バージョン管理システムシェア")
 
 
