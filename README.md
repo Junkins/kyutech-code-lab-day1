@@ -84,7 +84,8 @@ GitHubはソフトウェアエンジニアのSNSとしての一面もありま�
 ### SNSとして利用してみよう
 
  - [Junkins](https://github.com/junkins)
- - [yuuu](https://github.com/yuuu)
+ - [matz](https://github.com/matz)
+ - [matsumotory](https://github.com/matsumotory)
  - [freeCodeCamp](https://www.freecodecamp.org/japanese/news/learn-programming-by-yourself-freecodecamp-japanese-released/)
 
 ## 5. GitHubで読める世界のコード
