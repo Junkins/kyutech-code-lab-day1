@@ -108,7 +108,7 @@ GitHubはソフトウェアエンジニアのSNSとしての一面もありま�
 ### どのプランを利用するか？
 - 個人利用の場合は「Free」プランで問題ないと思います。 
 - [GitHub 価格](https://github.co.jp/pricing.html)
-- [GitHub プライベートリポジトリが無料になりました](https://github.blog/2019-01-07-new-year-new-github/)：良い時代になりました。\\\
+- [GitHub プライベートリポジトリが無料になりました](https://github.blog/2019-01-07-new-year-new-github/)：良い時代になりました。
 
 ### 二要素認証
 
