@@ -128,6 +128,7 @@ GitHubはソフトウェアエンジニアのSNSとしての一面もありま�
 
 ## 7. 小ネタ
 - [e-ZUKA Tech NightにGitHubのエンジニアが来ていました](https://ko31.github.io/atnd-archive/event/36926.html)
-- Octocat
+- Octocat ちゃん
+
 ![octcat](https://user-images.githubusercontent.com/2044958/174468327-b1ec61a3-fc3d-42fb-833f-8ac0ecea5fb3.png)
 
