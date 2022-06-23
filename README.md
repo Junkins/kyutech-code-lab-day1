@@ -36,7 +36,7 @@
 | ---- | ---- |
 |  1  |  ソースコードのホスティング、バージョン管理  |
 |  2  |  ソフトウェア開発者のSNS  |
-|  3  |  CI(継続的インテグレーション)：継続的インテグレーション  |
+|  3  |  CI(Continuous Integration)：継続的インテグレーション  |
 |  4  |  Webサイトのホスティング  |
 
 ### 資本関係
@@ -97,7 +97,7 @@ GitHubはソフトウェアエンジニアのSNSとしての一面もありま�
 | ---- | ---- |
 |  Laravel (illuminate/database) | https://github.com/illuminate/database |
 |  CakePHP  | https://github.com/cakephp/cakephp |
-|  Django  | https://github.com/djan |
+|  Django  | https://github.com/django |
 |  python  | https://github.com/python/cpython |
 | freeCodeCamp | https://github.com/freeCodeCamp/freeCodeCamp |
 
